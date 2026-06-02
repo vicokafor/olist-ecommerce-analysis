@@ -77,6 +77,13 @@ This project analyzes transactional data from the **Olist marketplace** in Brazi
 
 ## 🗂️ Repository Structure
 
+​```
+olist-ecommerce-analysis/
+│
+├── olist_analysis.sql    # SQL queries for data extraction & analysis
+├── o3.png                # Power BI dashboard preview
+└── README.md
+​```
 
 ---
 
