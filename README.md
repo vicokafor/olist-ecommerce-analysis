@@ -96,6 +96,6 @@ This project demonstrates a complete data analyst workflow:
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/victoria-okafor)
+- 💼 [LinkedIn](https://www.linkedin.com/in/victoria-okafor-4720a02b8?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - 🐙 [GitHub](https://github.com/vicokafor)
 - 📢 *Open to Work*
