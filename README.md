@@ -71,7 +71,7 @@ This project analyzes transactional data from the **Olist marketplace** in Brazi
 
 ## 📊 Dashboard Preview
 
-> *Screenshot coming soon*
+> ![Dashboard Preview](o3.png)
 
 ---
 
